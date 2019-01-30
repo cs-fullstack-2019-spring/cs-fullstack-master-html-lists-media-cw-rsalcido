@@ -1,0 +1,46 @@
+* {
+    background: yellow;
+}
+h1 {
+    color:red;
+    text-align: center;
+    background-color:grey;
+    }
+
+
+img{
+    width: 100px;
+}
+
+
+
+img {
+    float: right;
+    margin-left: 60%;
+    padding-bottom: auto;
+    /*margin-left: 0px 0px 0px 0px;*/
+    /*width: 150px;*/
+    /*height: 38px;*/
+
+}
+
+
+
+li {
+    background: url("img/cake.PNG") 0 50% no-repeat;
+    list-style-type: none;
+    padding-left: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+iframe{
+    width: 100%;
+}
+
+/*img {*/
+    /*!* border-radius: 6px; *!*/
+    /*display: block;*/
+    /*height: 200px;*/
+    /*width: 200px;*/
+/*}*/
