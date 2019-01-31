@@ -1,3 +1,6 @@
+### 1 POINTS
+### KEY: Missing main list exercise. Please review HTML lists. https://learn.shayhowe.com/html-css/creating-lists/
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
